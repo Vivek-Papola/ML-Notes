@@ -1,0 +1,4 @@
+Correlation between any two columns 
+
+auto --> horsepower --> milage --> Price
+manual --> horsepower --> milage --> Price

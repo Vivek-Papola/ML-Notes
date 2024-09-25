@@ -1,0 +1,18 @@
+select * from employee where department like 'CSE';
+
+select name from employee where name like 'ay%';
+
+select name, department from employee where name like 'D%' or like '%h';
+
+select * from employee where name like 'h%' and salary > 15000;
+
+select name from employee where name like '___';
+
+select name from employee where name like '%______%';
+
+
+Practice Questions :-
+
+Q- Print the data of the employees whose name Starts with capital 'A' and not ending with 't'.
+
+Q- Names starting with 'a' and second last letter 'a';

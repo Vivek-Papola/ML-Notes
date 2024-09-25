@@ -1,0 +1,18 @@
+							ML UNIT - 1 TEST
+
+Question:
+Given the following data set [5, 10, 15, 10, 20], compute the:
+(a) Standard Deviation
+(b) Total sum of squares (TSS).
+
+Question:
+Write a python script that does the following:
+(a) Accepts a list of 5 numbers from the user and outputs the sum and average.
+(b) Stores student names and their grades in a dictionary, then prints the names of students who scored above 70.
+
+Question:
+Write a Python program that asks the user to enter a number. If the number is divisible by 3, print "Fizz"; if divisible by 5, print "Buzz";
+if divisible by both, print "FizzBuzz". Otherwise, print the number itself. Use a loop to repeat this process until the user enters a negative number.
+
+Question:
+Explain the use of the NumPy library Python. Demonstrate how to create a 2x3 NumPy array and perform element-wise addition with another array. Additionally, describe one application of Scikit-learn in machine learning.

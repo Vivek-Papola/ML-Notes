@@ -1,0 +1,19 @@
+EDA 
+1. Understand the data 
+2. Univariate analysis - numerical data
+3. Univariate analysis - categorial data
+4. Bivariate analysis - numerical data
+	-> scatterplot 
+5. Outlier detection - Boxplot
+6. Feature Engineering
+	-> BMI (df 'bmi')
+7. Visualization of the new feature '
+	-> histplot (bmi distribution)
+
+			HW
+1. Kernel Density plot
+2. Swarm Plot
+3. Pair plot
+4. Violin plot
+5. Box plot
+6. HeatMap

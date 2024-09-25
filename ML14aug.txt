@@ -1,0 +1,2 @@
+increment date after every data input
+replace all the values of the list from random values
